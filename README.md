@@ -2,8 +2,7 @@
 Desafio QA BEEDOO 2026 
 
 Objetivo da aplicação:
-  Pelo que análisei a aplicação tem o objetivo de ser uma newsletter sobre cursos, aonde o usuário posta cursos, locais, data  
-  de começo e termino,
+  através da análisei a aplicação tem o objetivo de ser uma newsletter sobre cursos, aonde o usuário posta cursos, locais, data de começo e termino,
   Considerei essa hipótese por não haver nenhuma área de compra de curso ou um modo de se cadastrar no cursos, além de quê na
   hora do cadastro você coloca tipo de curso, presencial ou online, e então a aplicação pede o endereço ou o link do curso
 
