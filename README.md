@@ -16,3 +16,6 @@ https://docs.google.com/spreadsheets/d/1Au98OxBjfiidQAYSL3jWdd3QJR2apIRp7-0jvJeC
 
 # Pasta Compartilhada contendo o resultado do teste
 https://drive.google.com/drive/folders/1OtcKVAzuqYFM2gInS6eozKZDKD-aJfa8?usp=sharing
+
+# Bugs Encontrados 
+https://github.com/TarelhoAndre/DESAFIO-QA-BEEDOO-2026/tree/main/evidencias
