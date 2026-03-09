@@ -12,3 +12,7 @@ Fluxos Disponiveis:
 Pontos críticos para teste:
   Os pontos críticos para o teste são as funcionalidades (cadastro, listagem e exclusão de curso), além da visualização para o usuário 
 
+
+
+Pasta Compartilhada contendo o resultado do teste
+https://drive.google.com/drive/folders/1OtcKVAzuqYFM2gInS6eozKZDKD-aJfa8?usp=sharing
