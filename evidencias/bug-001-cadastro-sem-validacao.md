@@ -1,4 +1,4 @@
-#Bug 001 - Cadastro sem validação de campos
+# Bug 001 - Cadastro sem validação de campos
 
 ## Descrição
 A aplicação permite cadastrar um curso sem preencher nenhum campo
